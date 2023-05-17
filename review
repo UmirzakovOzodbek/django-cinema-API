@@ -1,0 +1,12 @@
+Review:
+{
+ "email": "eee@gmail.com",
+ "name": "Test",
+ "text": "Two mess",
+ "parent": 2,
+ "movie": 3
+}
+
+
+Rating:
+{"star": 4, "movie": 2}
