@@ -41,29 +41,22 @@ ____
 # Token
 ![Снимок экрана 2023-05-24 161858](https://github.com/UmirzakovOzodbek/django-cinema-API/assets/122611764/480546f3-2a27-4332-9a2d-92ca17689268)
 ![Снимок экрана 2023-05-24 161929](https://github.com/UmirzakovOzodbek/django-cinema-API/assets/122611764/17d8ec43-4578-4a51-90b7-a245c91829f6)
+![Снимок экрана 2023-05-24 155833](https://github.com/UmirzakovOzodbek/django-cinema-API/assets/122611764/73dbbe8a-63ee-47d2-81dd-8b60f218bf59)
 
 ____
+
 # Auth token
 ![Снимок экрана 2023-05-24 162120](https://github.com/UmirzakovOzodbek/django-cinema-API/assets/122611764/0d00d375-6f14-4a0d-8849-716a9d5b4206)
 ![Снимок экрана 2023-05-24 162014](https://github.com/UmirzakovOzodbek/django-cinema-API/assets/122611764/0a969fed-f51b-42ab-9a3d-dddaaad37a9b)
 
+____
 
+# User Social Auth (VK)
+![Снимок экрана 2023-05-24 155849](https://github.com/UmirzakovOzodbek/django-cinema-API/assets/122611764/b2259e10-1fc2-4ed4-916c-4366ba0d8d51)
 
+____
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Applications
+![Снимок экрана 2023-05-24 155938](https://github.com/UmirzakovOzodbek/django-cinema-API/assets/122611764/3d166035-7f16-470b-befd-414aef8b3578)
 
 
